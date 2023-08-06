@@ -159,5 +159,6 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Korkou Rotich -[Github](https://github.com/Justo701)
 
 Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Korkou Rotich
 ## License
 Public Domain. No copy write protection. 
